@@ -2,7 +2,7 @@ package hanoiProblem1;
 
 import java.util.Stack;
 
-//hanoi濉斾慨鏀圭増锛岄檺鍒舵父鎴忚鍒欎负涓嶈兘浠庡乏鐩存帴鍒板彸
+//hanoi塔修改版，限制游戏规则为不能从左直接到右
 public class HanoiProblem1 {
 	public static void main(String[] args) {
 		String left="left";
